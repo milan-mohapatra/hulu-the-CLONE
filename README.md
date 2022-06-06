@@ -1,2 +1,2 @@
-# HULU the best clone 
+# HULU
 This a practice project to improve my html, css and javascript skills
